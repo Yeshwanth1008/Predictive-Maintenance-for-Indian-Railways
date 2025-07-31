@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-IITM-green.svg)](LICENSE)
 
 A comprehensive machine learning system for predictive maintenance of Indian Railways infrastructure using time series analysis, anomaly detection, and survival analysis.
 
